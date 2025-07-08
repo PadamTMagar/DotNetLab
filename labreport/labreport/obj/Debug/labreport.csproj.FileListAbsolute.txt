@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\labreport\labreport\bin\Debug\labreport.exe.config
+C:\Users\acer\source\repos\labreport\labreport\bin\Debug\labreport.exe
+C:\Users\acer\source\repos\labreport\labreport\bin\Debug\labreport.pdb
+C:\Users\acer\source\repos\labreport\labreport\obj\Debug\labreport.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\labreport\labreport\obj\Debug\labreport.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\labreport\labreport\obj\Debug\labreport.exe
+C:\Users\acer\source\repos\labreport\labreport\obj\Debug\labreport.pdb
