@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\DotNetCode\DotNetCode\bin\Debug\net8.0\DotNetCode.exe
+C:\Users\acer\source\repos\DotNetCode\DotNetCode\bin\Debug\net8.0\DotNetCode.deps.json
+C:\Users\acer\source\repos\DotNetCode\DotNetCode\bin\Debug\net8.0\DotNetCode.runtimeconfig.json
+C:\Users\acer\source\repos\DotNetCode\DotNetCode\bin\Debug\net8.0\DotNetCode.dll
+C:\Users\acer\source\repos\DotNetCode\DotNetCode\bin\Debug\net8.0\DotNetCode.pdb
+C:\Users\acer\source\repos\DotNetCode\DotNetCode\obj\Debug\net8.0\DotNetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\DotNetCode\DotNetCode\obj\Debug\net8.0\DotNetCode.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\DotNetCode\DotNetCode\obj\Debug\net8.0\DotNetCode.AssemblyInfo.cs
+C:\Users\acer\source\repos\DotNetCode\DotNetCode\obj\Debug\net8.0\DotNetCode.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\DotNetCode\DotNetCode\obj\Debug\net8.0\DotNetCode.sourcelink.json
+C:\Users\acer\source\repos\DotNetCode\DotNetCode\obj\Debug\net8.0\DotNetCode.dll
+C:\Users\acer\source\repos\DotNetCode\DotNetCode\obj\Debug\net8.0\refint\DotNetCode.dll
+C:\Users\acer\source\repos\DotNetCode\DotNetCode\obj\Debug\net8.0\DotNetCode.pdb
+C:\Users\acer\source\repos\DotNetCode\DotNetCode\obj\Debug\net8.0\DotNetCode.genruntimeconfig.cache
+C:\Users\acer\source\repos\DotNetCode\DotNetCode\obj\Debug\net8.0\ref\DotNetCode.dll
